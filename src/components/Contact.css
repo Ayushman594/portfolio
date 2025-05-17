@@ -1,0 +1,18 @@
+i{
+    border:2px solid white;
+    border-radius:50%;
+    color:aliceblue;
+    padding:10px;
+}
+.instagram:hover{
+    background-color:aliceblue;
+    color:rgb(255, 77, 187);
+}
+.linkedin:hover{
+    background-color:aliceblue;
+    color:blue;
+}
+.youtube:hover{
+    background-color: aliceblue;
+    color:red;
+}

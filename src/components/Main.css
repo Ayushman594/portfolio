@@ -1,0 +1,16 @@
+img{
+  width:36vw;
+  height:55vh;
+  transition:width  height;
+  transition-duration: 1s;
+  transition-delay: 0s;
+  transition-timing-function: ease-in-out;
+}
+img:hover{
+    width:38vw;
+    height:56vh;
+}
+.main{
+    height:90vh;
+    margin-top: 35px;
+}
