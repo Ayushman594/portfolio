@@ -1,16 +1,16 @@
 img{
-  width:36vw;
-  height:55vh;
+  width:35vw;
+  height:23vh;
   transition:width  height;
   transition-duration: 1s;
   transition-delay: 0s;
   transition-timing-function: ease-in-out;
 }
-img:hover{
-    width:38vw;
-    height:56vh;
-}
+/* img:hover{
+    width:36vw;
+    height:25vh;
+} */
 .main{
-    height:90vh;
+    height:91vh;
     margin-top: 35px;
 }

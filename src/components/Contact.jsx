@@ -2,7 +2,7 @@ import React from 'react'
 import '../components/Contact.css';
 function Contact() {
   return (
-    <div className="bg-secondary pt-4 pb-4 text-light">
+    <div className="bg-secondary connect pt-4 pb-4 text-light">
       <h2 className='text-center text-info'>Contact</h2>
       <div className="text-center fs-4">Email at : ayushmanchoudhary43@gmail.com<br/>
         <p>Contact no: 8421562098</p>

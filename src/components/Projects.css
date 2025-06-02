@@ -1,4 +1,10 @@
 img{
-    margin-top: 44px;
-    margin-bottom: 30px;
+  width: 22vw;
+  height:50vh;
+  margin-top: 44px;
+  margin-bottom: 30px;
+}
+img:hover{
+  width:24vw;
+  height:52vh;
 }

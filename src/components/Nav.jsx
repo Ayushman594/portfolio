@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import { NavLink } from 'react-router';
 function Nava() {
   return (
-      <Navbar expand="lg" className="bg-body-secondary">
+      <Navbar expand="lg" className="bg-body-secondary p-3">
         <NavLink to="/"><Navbar.Brand className='ms-1 text-decoration-none'>Personal Portfolio</Navbar.Brand></NavLink>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

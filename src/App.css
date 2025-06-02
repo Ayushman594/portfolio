@@ -1,13 +1,10 @@
 .project{
     margin-bottom: 30px;
 }
-img{
-  width: 22vw;
-  height:50vh;
-}
-img:hover{
-  width:24vw;
-  height:52vh;
+
+a{
+  text-decoration: none;
+  color:black;
 }
 .navbar-nav{
   margin-left: 30px;
@@ -32,13 +29,26 @@ img:hover{
     padding-left:20px;
     padding-right: 20px;
   }
-  img{
-    width:68vw;
+  .about,.b,.connect{
+    height:93vh;
+  }
+  .navbar-brand{
+    margin-left: 0 !important;
+  }
+  .navbar-nav{
+    margin-left: 0;
+  }
+  .navbar-nav a{
+    margin-left: 0 !important;
+    margin-bottom: 10px;
+  }
+  .main img{
+    width:58vw;
     height:50vh;
   }
-  img:hover{
-    width:70vw;
-    height:54vh;
+  .main img:hover{
+    width:60vw;
+    height:52vh;
   }  
   ol li{
     font-size:20px;
@@ -51,7 +61,7 @@ img:hover{
     height:55vh;
   }
   .nav-link{
-    margin-left: 46px;
+    margin-left: 16px;
   }
   .para{
     font-size:20px;
@@ -69,13 +79,26 @@ img:hover{
    .nav-link{
     margin-left: 46px;
   }
-  img{
-    width:60vw;
-    height:50vh;
+   .navbar-brand{
+    margin-left: 0 !important;
   }
-  img:hover{
-    width:63vw;
-    height:52vh;
+  .navbar-nav{
+    margin-left: 0;
+  }
+  .navbar-nav a{
+    margin-left: 0 !important;
+    margin-bottom: 10px;
+  }
+  .about,.b,.connect{
+    height:93vh;
+  }
+  .main img{
+    width:45vw;
+    height:40vh;
+  }
+  .main img:hover{
+    width:48vw;
+    height:42vh;
   }
   .intro{
     margin-top: 0;
@@ -97,20 +120,33 @@ img:hover{
     .main{
     display:flex;
     flex-wrap: wrap;
-    text-align: center;
+    justify-content: space-evenly;
     padding-left:20px;
     padding-right: 20px;
+  }
+   .navbar-brand{
+    margin-left: 0 !important;
+  }
+  .navbar-nav{
+    margin-left: 0;
+  }
+  .navbar-nav a{
+    margin-left: 0 !important;
+    margin-bottom: 10px;
   }
    .nav-link{
     margin-left: 46px;
   }
-  img{
-    width:50vw;
-    height:50vh;
+  .about,.b,.connect{
+    height:93vh;
   }
-  img:hover{
-    width:53vw;
-    height:52vh;
+  .main img{
+    width:40vw;
+    height:40vh;
+  }
+  .main img:hover{
+    width:43vw;
+    height:42vh;
   }
   .intro{
     margin-top: 0;
@@ -128,18 +164,31 @@ img:hover{
     line-height: 5vh;
   }
 }
-@media screen and (min-width:800px) and (max-width:1000px){
+@media screen and (min-width:800px) and (max-width:991px){
   .main{
     padding-left:20px;
     padding-right: 20px;
   }
-  img{
-    width:45vw;
-    height:50vh;
+  .main img{
+    width:48vw;
+    height:43vh;
   }
-  img:hover{
+  .main img:hover{
     width:50vw;
-    height:52vh;
+    height:45vh;
+  }
+   .navbar-brand{
+    margin-left: 0 !important;
+  }
+  .navbar-nav{
+    margin-left: 0;
+  }
+  .navbar-nav a{
+    margin-left: 0 !important;
+    margin-bottom: 10px;
+  }
+  .about,.b,.connect{
+    height:93vh;
   }
    .intro{
     margin-left:60px;
@@ -155,5 +204,13 @@ img:hover{
   }
   .nav-link{
     margin-left: 47px;
+  }
+}
+@media screen and (min-width:992px){
+  .main img{
+    width:30vw;
+  }
+  .about,.b,.connect{
+    height:93vh;
   }
 }
