@@ -1,7 +1,6 @@
 img{
-  width:35vw;
-  height:23vh;
-  transition:width  height;
+  width:22vw;
+  transition:width height;
   transition-duration: 1s;
   transition-delay: 0s;
   transition-timing-function: ease-in-out;

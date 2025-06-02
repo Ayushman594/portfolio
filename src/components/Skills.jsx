@@ -3,7 +3,7 @@ import './Skills.css';
 function Skills() {
   return (
     <div className="pb-4 pt-4 b bg-secondary text-light">
-      <h2 className="text-center  text-info">Skills</h2>
+      <h2 className="text-center mt-3 text-info">Skills</h2>
       <ol type="1">
         <li>HTML</li>
         <li>CSS</li>
