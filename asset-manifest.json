@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Ayushman594/portfolio.git/static/css/main.a4526652.css",
+    "main.js": "/Ayushman594/portfolio.git/static/js/main.cc7db16e.js",
+    "static/js/453.1407b060.chunk.js": "/Ayushman594/portfolio.git/static/js/453.1407b060.chunk.js",
+    "static/media/To Do list.png": "/Ayushman594/portfolio.git/static/media/To Do list.0c65223ccc1c3054c72e.png",
+    "static/media/Tic Tac Toe.png": "/Ayushman594/portfolio.git/static/media/Tic Tac Toe.59ec74d1ad0794a51b56.png",
+    "static/media/photo.JPG": "/Ayushman594/portfolio.git/static/media/photo.55a045339dd0852fab0e.JPG",
+    "static/media/Basic Calculator.png": "/Ayushman594/portfolio.git/static/media/Basic Calculator.9598ee606d26e3e9f826.png",
+    "index.html": "/Ayushman594/portfolio.git/index.html",
+    "main.a4526652.css.map": "/Ayushman594/portfolio.git/static/css/main.a4526652.css.map",
+    "main.cc7db16e.js.map": "/Ayushman594/portfolio.git/static/js/main.cc7db16e.js.map",
+    "453.1407b060.chunk.js.map": "/Ayushman594/portfolio.git/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4526652.css",
+    "static/js/main.cc7db16e.js"
+  ]
+}
